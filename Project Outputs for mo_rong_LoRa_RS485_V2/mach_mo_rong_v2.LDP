@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\new\mo_rong_LoRa_RS485_V2\mach_mo_rong_v2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mach_mo_rong_v2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mach_mo_rong_v2-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [mo_rong_LoRa_RS485_V2.PrjPcb]
+   Generated File[mach_mo_rong_v2-RoundHoles.TXT]
+   Generated File[mach_mo_rong_v2-SlotHoles.TXT]
+   Generated File[mach_mo_rong_v2.LDP]
+   Generated File[mach_mo_rong_v2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:25:35 On 10/8/2026

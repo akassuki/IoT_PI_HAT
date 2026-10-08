@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=TXDEN_2 Pin=P13-1
+Removed Pin From Net: NetName=TXDEN_1 Pin=P13-2
+Change Component Comment : Designator=D5 Old Comment=SMBJ10CA-13-F New Comment=SMBJ12CA
+Change Component Comment : Designator=D9 Old Comment=SMBJ10CA-13-F New Comment=SMBJ12CA
+Change Component Comment : Designator=D3 Old Comment=SMBJ16.5CA New Comment=SMBJ12CA
+Change Component Comment : Designator=D8 Old Comment=SMBJ16.5CA New Comment=SMBJ12CA
+Added Pin To Net: NetName=TXDEN_1 Pin=P13-1
+Added Pin To Net: NetName=TXDEN_2 Pin=P13-2
+Added Room: Name=connect
+Added Room: Name=LoRa_V
+Added Room: Name=RS_485_V

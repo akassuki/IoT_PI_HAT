@@ -1,0 +1,13 @@
+Added Component: Designator=U11(MODULE_SC0194(9))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SC0194(9)/Raspberry+Pi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SC0194(9)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SC0194(9)/Raspberry+Pi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=connect Member=Component J8 395111010
+Added Member To Class: ClassName=connect Member=Component J10 395111010
+Added Member To Class: ClassName=LoRa_V Member=Component U11 SC0194(9)
+Added Room: Name=connect
+Added Room: Name=LoRa_V
+Added Room: Name=RS_485_V
